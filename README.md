@@ -1,1 +1,1 @@
-# Predictive_Algorthim_Challnage
+# Predictive_Algorthim_Challnages
